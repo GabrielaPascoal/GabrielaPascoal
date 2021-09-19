@@ -7,7 +7,7 @@
  <div>
   <a href="https://github.com/GabrielaPascoal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaPascoal&layout=compact&langs_count=7&theme=dracula"/>
-     <img height="180em" src="https://i.picasion.com/pic91/02954eef0deb7da2f812ddc3764d50aa.gif"/>
+     <img height="180em" src="https://i.picasion.com/pic91/d38bc8dd86ded0a098bb15429ec00b8f.gif"/>
 
 </div>
   
