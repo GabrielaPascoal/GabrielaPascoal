@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 - 💻 Computer science student
-- 🌈 I'm currently learning Java language
-- ✨ Pronouns: She/Her...
 
  <div>
   <a href="https://github.com/GabrielaPascoal">
